@@ -2194,6 +2194,19 @@ body.nav-active .nav__block .nav__block-item {
   line-height: 1;
   font-weight: 900;
 }
+pre{
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+#abouttitle h2 {
+  font-size: 1.2em;
+  font-size: calc(1.8em + 2vw);
+  line-height: 1;
+  font-weight: 900;
+}
 
 .section-header .title span {
   font-size: 14px;
@@ -2336,8 +2349,8 @@ body.nav-active .nav__block .nav__block-item {
 .services-item .number {
   font-family: var(--heading-font);
   font-size: 5em;
-  font-weight: 900;
-  color: #f4f4f4;
+  font-weight: 1000;
+  color: rgba(0, 0, 0, 0.123);
   position: absolute;
   top: -69px;
   left: -22px;
@@ -3114,3 +3127,12 @@ footer#footer {
 .parallax-wrap .parallax-image {
   position: absolute;
 }
+
+.author-title{
+  color: orange;
+  font-size: 1.5em;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+ 

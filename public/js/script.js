@@ -94,13 +94,11 @@
 
     $('.main-slider').on('beforeChange', function(event, slick, currentSlide, nextSlide){
       hideTexts();
-      console.log('beforeChange');
-    });
+     });
 
     $('.main-slider').on('afterChange', function(event, slick, currentSlide, nextSlide){
       animateTexts();
-      console.log('afterChange');
-    });
+     });
     
     initTexts();
     animateTexts();

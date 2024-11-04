@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="author" content="TemplatesJungle">
     <meta name="keywords" content="Free HTML Template">
     <meta name="description" content="Free HTML Template">
@@ -24,6 +24,8 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"
         rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 </head>
 
 <body>
@@ -34,7 +36,7 @@
         <div class="nav__content">
             <div class="container">
                 <div class="row p-4 p-md-0 flex-column-reverse flex-md-row g-md-5 nav__block">
-                    <div class="col-md-5">
+                    {{-- <div class="col-md-5">
                         <ul class="nav__list d-none d-md-block">
                             <li class="nav__list-item active-nav"><a href="#intro" class="hover-target">Home</a>
                             </li>
@@ -45,18 +47,16 @@
                             </li>
                             <li class="nav__list-item"><a href="contact.html" class="hover-target">Contact us</a></li>
                         </ul>
-                    </div>
+                    </div> --}}
                     <div class="col-md-4 text-white">
                         <h3 class="text-white fw-bold nav__block-item">Contact info</h3>
-                        <p class="text-light nav__block-item">Officia nisi corrupti eaque cumque exercitationem labore
-                            sint sapiente rem neque temporibus id ratione perspiciatis, tenetur est repellendus
-                            aspernatur culpa repudiandae omnis.</p>
+ 
                         <ul class="list-unstyled text-light nav__block-item">
                             <li class="menu-item">
-                                <i class="icon icon-location me-2"></i>2489 Locust Court, Los Angeles
+                                <i class="icon icon-location me-2"></i>العقبة - دوار هيا - عمارة الملكية - الطابق الأول
                             </li>
                             <li class="menu-item">
-                                <i class="icon icon-location2 me-2"></i>3927 Red Maple Drive, Los Angeles
+                                <i class="icon icon-location2 me-2"></i>Aqaba-Haya Circle-RJ Building-1st Floor
                             </li>
                             <li class="menu-item">
                                 <i class="icon icon-phone me-2"></i>+962 79 084 6327
@@ -73,6 +73,9 @@
 
         </div>
     </div>
+    {{-- <ul>
+        <li><a href="#about">asfvfdcw</a></li>
+    </ul> --}}
 
     <div class="main-logo">
         <a href="index.html">A.</a>
@@ -132,7 +135,7 @@
                         <div class="title">
                             <span>who are we</span>
                         </div>
-                        <h2 class="section-title">About Us</h2>
+                        <h2 id="abouttitle">All About Aqaba Marketing Solution Company</h2>
                     </div>
                 </div>
 
@@ -146,14 +149,9 @@
                     </figure>
                 </div>
                 <div class="col-md-6 description text-lead">
-                    <p><strong>Amet, consectetur adipiscing elit. Commodo viverra eu volutpat amet, leo ultrici non
-                            senectus odio dolor. Id at urna non porttitor elentum. Viverra senectus lorem ipsum dolor
-                            sit adui ultricies dolor varius nibh velit viverra euen.</strong></p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Commodo viverra eu volutpat amet, leo
-                        non senetus odio dolor. Id at urna non portitor etum. Vivera senectus elit dui ultricies dolor.
-                        Varius nibh velit pellentesque sapien, sapien neque dignissim.</p>
-                    <p>Commodo vivera eu volutpat amet, leo non senectus odio dolor. Id at urna non porttitor elementum.
-                        Viverra senectus dui ultricies dolor.</p>
+                    <p><strong>We Help Our Partners Achieve Their Goals And Enhance Their Digital Presence.</strong></p>
+                    <p>We Provide You With Real Services Through A Deep Understanding Of Our Customers Needs.</p>
+                    <p>Our Real Goal Is Our Lasting Relation With You</p>
 
 
 
@@ -332,8 +330,8 @@
                 <div class="col-md-4">
                     <div class="services-item">
                         <span class="number">01</span>
-                        <h3>Architecture Portfolio</h3>
-                        <p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis nulla blandit dui.
+                        <h3>Production</h3>
+                        <p>Stimulating Interest And Awareness Of The Product Brand.
                         </p>
                     </div>
                 </div>
@@ -341,8 +339,9 @@
                 <div class="col-md-4">
                     <div class="services-item">
                         <span class="number">02</span>
-                        <h3>Planning Process</h3>
-                        <p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis nulla blandit dui.
+                        <h3>Social Media Management</h3>
+                        <p>Through The Most Importent Methods, Such As Using Marketing Strategies That Enable You To Reach
+                            The Largest Number Of Customers And Attract Their Attention.
                         </p>
                     </div>
 
@@ -351,8 +350,34 @@
                 <div class="col-md-4">
                     <div class="services-item">
                         <span class="number">03</span>
-                        <h3>Unique Design</h3>
-                        <p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis nulla blandit dui.
+                        <h3>Influencer Marketing</h3>
+                        <p>By Building Brand Awareness We Enhance It's Image Among Consumers And Also Simulate Purchase 
+                            In More Atractive Ways. 
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="services-item">
+                        <span class="number">04</span>
+                        <h3>Event Planning</h3>
+                        <p> Which We Do And In Turn Works To Grow Business And Provide Networking Opportunities
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="services-item">
+                        <span class="number">05</span>
+                        <h3>Content Creating And Marketing</h3>
+                        <p>We Help You Write Distinctive Content To Be Uninique In The Market And To Market And To Make Our Own
+                            Mark In Marketing Your Product
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="services-item">
+                        <span class="number">06</span>
+                        <h3>Website Design</h3>
+                        <p> 
                         </p>
                     </div>
                 </div>
@@ -536,15 +561,15 @@
                         <div class="iconbox">
                             <i class="icon icon-location"></i>
                             <div class="detail">
-                                <strong>Address 1:</strong>
-                                <p>3927 Red Maple Drive, Los Angeles</p>
+                                <strong>Address </strong>
+                                <p>العقبة - دوار هيا - عمارة الملكية - الطابق الأول</p>
                             </div>
                         </div>
                         <div class="iconbox">
                             <i class="icon icon-location2"></i>
                             <div class="detail">
-                                <strong>Address 2:</strong>
-                                <p>2489 Locust Court, Los Angeles</p>
+                                {{-- <strong>Address 2:</strong> --}}
+                                <p>Aqaba-Haya Circle-RJ Building-1st Floor</p>
                             </div>
                         </div>
                         <div class="iconbox">
@@ -597,8 +622,8 @@
                                 turpis dolor. Aliquam faucibus velit, volutpat vulputate risus urna enim.</q>
                             <div class="testimonial-author">
                                 <div class="author-detail">
-                                    <div class="name">Lucifer</div>
-                                    <div class="author-title">CEO, unity real state</div>
+                                    <div class="name">LANA AL-MANASEER</div>
+                                    <div class="author-title">CEO</div>
                                 </div>
                             </div>
                         </div>
@@ -618,22 +643,17 @@
 
                     <div class="footer-menu menu-item-01">
                         <img src="images/logo.png" alt="logo" class="footer-logo">
-                        <p>Tristique lacus ullamcorper massa posuere nisl molestie. Nullam motes, tortor masa. Nisl
-                            tellus etiam.</p>
+ 
                         <div class="social-links">
+                            <p>Follow Us On</p>
                             <ul>
                                 <li>
-                                    <a href="#"><i class="icon icon-facebook"></i></a>
+                                    <a href="https://www.facebook.com/groups/482275915868920/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
                                 </li>
                                 <li>
-                                    <a href="#"><i class="icon icon-twitter"></i></a>
+                                    <a href="https://www.instagram.com/all_about_aqabaa/" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </li>
-                                <li>
-                                    <a href="#"><i class="icon icon-youtube-play"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="icon icon-behance-square"></i></a>
-                                </li>
+    
                             </ul>
                         </div>
                     </div>
@@ -655,13 +675,13 @@
                                 <a href="#services">services</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">portfolios</a>
+                                <a href="#portfolio">Our Work</a>
                             </li>
 
                             {{-- ??????????????????????????????/ --}}
-                            <li class="menu-item">
+                            {{-- <li class="menu-item">
                                 <a href="#">blogs</a>
-                            </li>
+                            </li> --}}
                             {{-- ?????????????????? --}}
                             <li class="menu-item">
                                 <a href="#contact">contact us</a>
@@ -677,10 +697,10 @@
                         <h5>contact info</h5>
                         <ul class="menu-list">
                             <li class="menu-item">
-                                <i class="icon icon-location"></i>2489 Locust Court, Los Angeles
+                                <i class="icon icon-location"></i>العقبة - دوار هيا - عمارة الملكية - الطابق الأول
                             </li>
                             <li class="menu-item">
-                                <i class="icon icon-location2"></i>3927 Red Maple Drive, Los Angeles
+                                <i class="icon icon-location2"></i>Aqaba-Haya Circle-RJ Building-1st Floor
                             </li>
                             <li class="menu-item">
                                 <i class="icon icon-phone"></i>+962 79 084 6327
@@ -694,33 +714,7 @@
 
                 </div>
 
-                <!-- <div class="col-md-3">
-
-     <div class="footer-menu menu-item-04">
-      <h5>gallery</h5>
-      <div class="gallery">
-       <a href="images/spacejoy.jpg" data-lightbox-gallery="gallery1"
-        title="Calm Before The Storm (One Shoe Photography Ltd.)" class="image-link"><img
-         src="images/tab1.jpg" alt="house" class="gallery-image"></a>
-       <a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-        title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-         src="images/tab2.jpg" alt="house" class="gallery-image"></a>
-       <a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-        title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-         src="images/tab3.jpg" alt="house" class="gallery-image"></a>
-       <a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-        title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-         src="images/postimg1.jpg" alt="house" class="gallery-image"></a>
-       <a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-        title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-         src="images/postimg2.jpg" alt="house" class="gallery-image"></a>
-       <a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-        title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-         src="images/postimg3.jpg" alt="house" class="gallery-image"></a>
-      </div>
-     </div>
-
-    </div> -->
+ 
 
             </div>
         </div>
