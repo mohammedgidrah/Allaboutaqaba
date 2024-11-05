@@ -162,7 +162,7 @@
         </div>
     </section>
 
-    <section id="portfolio" class="scrollspy-section bg-dark padding-large">
+    <section id="our-work" class="scrollspy-section bg-dark padding-large">
         <div class="container">
 
             <div class="row">
@@ -172,7 +172,7 @@
                         <div class="title">
                             <span>Some of Our Works</span>
                         </div>
-                        <h2 class="section-title light">Our Portfolio</h2>
+                        <h2 class="section-title light">Our works</h2>
                     </div>
                 </div>
             </div>
@@ -181,7 +181,7 @@
 
                 <div id="filters" class="button-group d-flex flex-wrap gap-4 py-5" data-aos="fade-up">
                     <a href="#" class="btn btn-outline-light rounded-pill text-uppercase is-checked"
-                        data-filter=".design">Design</a>
+                        data-filter=".videos">videos</a>
                     <a href="#" class="btn btn-outline-light rounded-pill text-uppercase"
                         data-filter=".interior">Interior</a>
                     <a href="#" class="btn btn-outline-light rounded-pill text-uppercase"
@@ -218,32 +218,38 @@
                         title="Sample Caption goes here for Portfolio Item 5."><img src="images/portfolio-thumb-5.jpg"
                             class="img-fluid" alt="portfolio"></a>
                 </div>
-                <div class="col mb-4 portfolio-item design">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 6."><img src="images/portfolio-thumb-6.jpg"
-                            class="img-fluid" alt="portfolio"></a>
+                <div class="col mb-4 portfolio-item videos">
+                    <div class="video-background" style="background-color: #000; padding: 20px; position: relative; overflow: hidden;">
+                        <a href="videos/zain aldean.mp4" class="video-link" title="Sample Caption goes here for Portfolio Item 6.">
+                            <video class="img-fluid" controls autoplay width="100%" height="50%">
+                                <source src="videos/zain aldean.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        </a>
+                    </div>
                 </div>
-                <div class="col mb-4 portfolio-item design">
+                
+                <div class="col mb-4 portfolio-item videos">
                     <a href="images/portfolio-large-1.jpg" class="image-link"
                         title="Sample Caption goes here for Portfolio Item 7."><img src="images/portfolio-thumb-7.jpg"
                             class="img-fluid" alt="portfolio"></a>
                 </div>
-                <div class="col mb-4 portfolio-item design">
+                <div class="col mb-4 portfolio-item videos">
                     <a href="images/portfolio-large-1.jpg" class="image-link"
                         title="Sample Caption goes here for Portfolio Item 8."><img src="images/portfolio-thumb-8.jpg"
                             class="img-fluid" alt="portfolio"></a>
                 </div>
-                <div class="col mb-4 portfolio-item design">
+                <div class="col mb-4 portfolio-item videos">
                     <a href="images/portfolio-large-2.jpg" class="image-link"
                         title="Sample Caption goes here for Portfolio Item 9."><img src="images/portfolio-thumb-9.jpg"
                             class="img-fluid" alt="portfolio"></a>
                 </div>
-                <div class="col mb-4 portfolio-item design">
+                <div class="col mb-4 portfolio-item videos">
                     <a href="images/portfolio-large-2.jpg" class="image-link"
                         title="Sample Caption goes here for Portfolio Item1 0."><img
                             src="images/portfolio-thumb-10.jpg" class="img-fluid" alt="portfolio"></a>
                 </div>
-                <div class="col mb-4 portfolio-item design">
+                <div class="col mb-4 portfolio-item videos">
                     <a href="images/portfolio-large-1.jpg" class="image-link"
                         title="Sample Caption goes here for Portfolio Item1 1."><img
                             src="images/portfolio-thumb-11.jpg" class="img-fluid" alt="portfolio"></a>
@@ -675,7 +681,7 @@
                                 <a href="#services">services</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#portfolio">Our Work</a>
+                                <a href="#our-work">Our Work</a>
                             </li>
 
                             {{-- ??????????????????????????????/ --}}
