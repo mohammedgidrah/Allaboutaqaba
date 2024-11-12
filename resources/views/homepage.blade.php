@@ -36,26 +36,12 @@
         <div class="nav__content">
             <div class="container">
                 <div class="row p-4 p-md-0 flex-column-reverse flex-md-row g-md-5 nav__block">
-                    {{-- <div class="col-md-5">
-                        <ul class="nav__list d-none d-md-block">
-                            <li class="nav__list-item active-nav"><a href="#intro" class="hover-target">Home</a>
-                            </li>
-                            <li class="nav__list-item"><a href="#about" class="hover-target">Onepage</a></li>
-                            <li class="nav__list-item"><a href="index.html" class="hover-target">Styles</a></li>
-                            <li class="nav__list-item"><a href="index.html" class="hover-target">Blog</a></li>
-                            <li class="nav__list-item"><a href="single-post.html" class="hover-target">Single Post</a>
-                            </li>
-                            <li class="nav__list-item"><a href="contact.html" class="hover-target">Contact us</a></li>
-                        </ul>
-                    </div> --}}
+ 
                     <div class="col-md-4 text-white">
                         <h3 class="text-white fw-bold nav__block-item">Contact info</h3>
 
                         <ul class="list-unstyled text-light nav__block-item">
-                            <li class="menu-item">
-                                <i class="icon icon-location me-2" id="nav_icone"></i>العقبة - دوار هيا - عمارة الملكية
-                                - الطابق الأول
-                            </li>
+  
                             <li class="menu-item">
                                 <i class="icon icon-location2 me-2" id="nav_icone"></i>Aqaba-Haya Circle-RJ Building-1st
                                 Floor
@@ -80,9 +66,9 @@
         <li><a href="#about">asfvfdcw</a></li>
     </ul> --}}
 
-    <div class="main-logo" id="home">
+    {{-- <div class="main-logo" id="home">
         <a href="#" ><img class="logo" src="images/logo-removebg-preview.png" alt=""></a>
-    </div>
+    </div> --}}
 
     <div class="side-nav-bar">
         <input id="menu-toggle" type="checkbox" />
@@ -93,6 +79,14 @@
 
     <section id="intro" class="scrollspy-section">
         <div class="main-slider">
+            <div class="slider-item jarallax" data-speed="0.2">
+                <img src="images/logo.png" alt="banner"
+                    class="jarallax-img">
+                <div class="banner-content">
+                    <h2 class="banner-title txt-fx"></h2>
+
+                </div><!--banner-content-->
+            </div><!--slider-item-->
             <div class="slider-item jarallax" data-speed="0.2">
                 <img src="images/top-view-photography-accesories-with-copy-space.jpg" alt="banner"
                     class="jarallax-img">
@@ -583,13 +577,7 @@
                 <div class="col-md-6">
                     <div class="right-content">
 
-                        <div class="iconbox">
-                            <i class="icon icon-location" id="nav_icone"></i>
-                            <div class="detail">
-                                <strong>Address </strong>
-                                <p>العقبة - دوار هيا - عمارة الملكية - الطابق الأول</p>
-                            </div>
-                        </div>
+   
                         <div class="iconbox">
                             <i class="icon icon-location2" id="nav_icone"></i>
                             <div class="detail">
@@ -723,10 +711,7 @@
                     <div class="footer-menu menu-item-03">
                         <h5 class="footer_tiltle">contact info</h5>
                         <ul class="menu-list">
-                            <li class="menu-item">
-                                <i class="icon icon-location" id="nav_icone"></i>العقبة - دوار هيا - عمارة الملكية -
-                                الطابق الأول
-                            </li>
+ 
                             <li class="menu-item">
                                 <i class="icon icon-location2" id="nav_icone"></i>Aqaba-Haya Circle-RJ Building-1st
                                 Floor
