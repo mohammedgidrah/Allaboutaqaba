@@ -237,17 +237,33 @@
                         </a>
                     </div>
                 </div>
+                <div class="col mb-4 portfolio-item videos">
+                    <div class="video-background"
+                        style="background-color: #000; padding: 20px; position: relative; overflow: hidden;">
+                        <a href="videos/sofex.mp4" class="video-link"
+                            title="Sample Caption goes here for Portfolio Item 6.">
+                            <video class="img-fluid" controls autoplay width="100%" height="50%">
+                                <source src="videos/sofex.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        </a>
+                    </div>
+                </div>
+                <div class="col mb-4 portfolio-item videos">
+                    <div class="video-background"
+                        style="background-color: #000; padding: 20px; position: relative; overflow: hidden;">
+                        <a href="videos/regensy.mp4" class="video-link"
+                            title="Sample Caption goes here for Portfolio Item 6.">
+                            <video class="img-fluid" controls autoplay width="100%" height="50%">
+                                <source src="videos/regensy.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        </a>
+                    </div>
+                </div>
 
-                <div class="col mb-4 portfolio-item videos">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 7."><img src="images/portfolio-thumb-7.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item videos">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 8."><img src="images/portfolio-thumb-8.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
+  
+    
                 <div class="col mb-4 portfolio-item videos">
                     <a href="images/portfolio-large-2.jpg" class="image-link"
                         title="Sample Caption goes here for Portfolio Item 9."><img src="images/portfolio-thumb-9.jpg"
