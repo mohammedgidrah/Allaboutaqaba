@@ -32,16 +32,15 @@
 
     <div class="preloader"></div>
 
-    <div class="nav nav-overlay" >
+    <div class="nav nav-overlay">
         <div class="nav__content">
             <div class="container">
                 <div class="row p-4 p-md-0 flex-column-reverse flex-md-row g-md-5 nav__block">
- 
-                    <div class="col-md-4 text-white">
-                        <h3 class="text-white fw-bold nav__block-item">Contact info</h3>
 
+                    <!-- Contact Info Section -->
+                    <div class="col-md-6 text-white">
+                        <h3 class="text-white fw-bold nav__block-item">Contact Info</h3>
                         <ul class="list-unstyled text-light nav__block-item">
-  
                             <li class="menu-item">
                                 <i class="icon icon-location2 me-2" id="nav_icone"></i>Aqaba-Haya Circle-RJ Building-1st
                                 Floor
@@ -57,11 +56,16 @@
                         </ul>
                     </div>
 
+                    <!-- Image Section -->
+                    <div class="col-md-6">
+                        <img src="images/Lana office pic[1].JPG" alt="Contact Us" class="contact-img">
+                    </div>
+
                 </div>
             </div>
-
         </div>
     </div>
+
     {{-- <ul>
         <li><a href="#about">asfvfdcw</a></li>
     </ul> --}}
@@ -80,8 +84,7 @@
     <section id="intro" class="scrollspy-section">
         <div class="main-slider">
             <div class="slider-item jarallax" data-speed="0.2">
-                <img src="images/logo.png" alt="banner"
-                    class="jarallax-img">
+                <img src="images/logo.png" alt="banner" class="jarallax-img">
                 <div class="banner-content">
                     <h2 class="banner-title txt-fx"></h2>
 
@@ -262,8 +265,8 @@
                     </div>
                 </div>
 
-  
-    
+
+
                 <div class="col mb-4 portfolio-item videos">
                     <a href="images/portfolio-large-2.jpg" class="image-link"
                         title="Sample Caption goes here for Portfolio Item 9."><img src="images/portfolio-thumb-9.jpg"
@@ -452,9 +455,9 @@
 
                     <div class="section-header">
                         <div class="title">
-                            <span>read our blog</span>
+                            {{-- <span> our clints</span> --}}
                         </div>
-                        <h2 class="section-title">latest blog</h2>
+                        <h2 class="section-title"> our clints</h2>
                     </div>
                 </div>
 
@@ -471,18 +474,15 @@
                                 <article class="post-item">
 
                                     <figure>
-                                        <a href="#" class="image-hvr-effect">
-                                            <img src="images/postimg1.jpg" alt="post" class="post-image">
+                                        <a href="https://www.facebook.com/RYCJordan/" class="image-hvr-effect">
+                                            <img src="images/نادي اليخوت.png" alt="post" class="post-image">
                                         </a>
                                     </figure>
 
                                     <div class="post-content">
-                                        <div class="meta-date">Mar 30, 2021</div>
-                                        <h3 class="post-title"><a href="#">modern vibes bedrooms, todays
-                                                trending
-                                                design</a></h3>
-                                        <p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis
-                                            nulla blandit dui.</p>
+                                        <h3 class="post-title"><a href="https://www.facebook.com/RYCJordan/">The royal
+                                                yacht club of jordan </a></h3>
+
                                     </div>
                                 </article>
 
@@ -492,33 +492,127 @@
 
                                 <article class="post-item">
                                     <figure>
-                                        <a href="#" class="image-hvr-effect">
-                                            <img src="images/postimg2.jpg" alt="post" class="post-image">
+                                        <a href="https://www.mms.edu.jo/en/Home/Modern-Montessori-Kindergarten"
+                                            class="image-hvr-effect">
+                                            <img src="images/MMS.png" alt="post" class="post-image">
                                         </a>
                                     </figure>
                                     <div class="post-content">
-                                        <div class="meta-date">Mar 29, 2021</div>
-                                        <h3 class="post-title"><a href="#">How to make minimalist living rooms
-                                                pop-out</a></h3>
-                                        <p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis
-                                            nulla blandit dui.</p>
+                                        <h3 class="post-title"><a
+                                                href="https://www.mms.edu.jo/en/Home/Modern-Montessori-Kindergarten">Modern
+                                                montessori kindergarten
+                                            </a></h3>
+
                                     </div>
                                 </article>
                             </div>
 
+
                             <div class="col-md-4">
                                 <article class="post-item">
                                     <figure>
-                                        <a href="#" class="image-hvr-effect">
-                                            <img src="images/postimg3.jpg" alt="post" class="post-image">
+                                        <a href="https://www.facebook.com/ZainAldeenShawarma/?locale=ar_AR"
+                                            class="image-hvr-effect">
+                                            <img src="images/zain aldeain.png" alt="post" class="post-image">
                                         </a>
                                     </figure>
                                     <div class="post-content">
-                                        <div class="meta-date">Mar 27, 2021</div>
-                                        <h3 class="post-title"><a href="#">how to make your resort that looks
-                                                outstanding</a></h3>
-                                        <p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis
-                                            nulla blandit dui.</p>
+                                        <h3 class="post-title"><a
+                                                href="https://www.facebook.com/ZainAldeenShawarma/?locale=ar_AR">Zainaldeen
+                                                shawarma
+                                            </a></h3>
+
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="col-md-4">
+                                <article class="post-item">
+                                    <figure>
+                                        <a href="https://www.kempinski.com/en/hotel-aqaba" class="image-hvr-effect">
+                                            <img src="images/Kempinski logo 1[1].png" alt="post"
+                                                class="post-image kempinski">
+                                        </a>
+                                    </figure>
+                                    <div class="post-content">
+                                        <h3 class="post-title"><a
+                                                href="https://www.kempinski.com/en/hotel-aqaba">Kempinski hotel aqaba
+                                            </a></h3>
+
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="col-md-4">
+                                <article class="post-item">
+                                    <figure>
+                                        <a href="https://www.hyatt.com/en-US/hotel/jordan/hyatt-regency-aqaba-ayla-resort/aqjra"
+                                            class="image-hvr-effect">
+                                            <img src="images/Hyatt purple logo[1].jpg" alt="post"
+                                                class="post-image">
+                                        </a>
+                                    </figure>
+                                    <div class="post-content">
+                                        <h3 class="post-title"><a
+                                                href="https://www.hyatt.com/en-US/hotel/jordan/hyatt-regency-aqaba-ayla-resort/aqjra">Hyatt
+                                                regency aqaba ayla resort</a></h3>
+
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="col-md-4">
+                                <article class="post-item">
+                                    <figure>
+                                        <a href="https://www.instagram.com/calamantina_beauty/?hl=ar"
+                                            class="image-hvr-effect">
+                                            <img src="images/clementine.jpg" alt="post" class="post-image">
+                                        </a>
+                                    </figure>
+                                    <div class="post-content">
+                                        <h3 class="post-title"><a
+                                                href="https://www.instagram.com/calamantina_beauty/?hl=ar">Calamantina
+                                            </a></h3>
+
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="col-md-4">
+                                <article class="post-item">
+                                    <figure>
+                                        <a href="https://cloud7hotels.com/ayla-aqaba/" class="image-hvr-effect">
+                                            <img src="images/cloud7 logo[1].png" alt="post" class="cloud7">
+                                        </a>
+                                    </figure>
+                                    <div class="post-content">
+                                        <h3 class="post-title"><a href="https://cloud7hotels.com/ayla-aqaba/">cloud
+                                                7</a></h3>
+
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="col-md-4">
+                                <article class="post-item">
+                                    <figure>
+                                        <a href="https://www.facebook.com/Haddad.clinc/" class="image-hvr-effect">
+                                            <img src="images/haddad clinecke.jpg" alt="post" class="post-image">
+                                        </a>
+                                    </figure>
+                                    <div class="post-content">
+                                        <h3 class="post-title"><a
+                                                href="https://www.facebook.com/Haddad.clinc/">Haddad clinic</a></h3>
+
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="col-md-4">
+                                <article class="post-item">
+                                    <figure>
+                                        <a href="https://www.jdfshops.com/ar" class="image-hvr-effect">
+                                            <img src="images/alhorah.png" alt="post" class="post-image">
+                                        </a>
+                                    </figure>
+                                    <div class="post-content">
+                                        <h3 class="post-title"><a href="https://www.jdfshops.com/ar">Alhurra
+                                            </a></h3>
+
                                     </div>
                                 </article>
                             </div>
@@ -593,7 +687,7 @@
                 <div class="col-md-6">
                     <div class="right-content">
 
-   
+
                         <div class="iconbox">
                             <i class="icon icon-location2" id="nav_icone"></i>
                             <div class="detail">
@@ -624,45 +718,7 @@
         </div>
     </section>
 
-    <section id="testimonial" class="padding-large">
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-md-6">
-
-                    <figure class="jarallax-keep-img testimonial-image" data-speed="0.5">
-                        <img src="images/review-bg.jpg" alt="review" class="jarallax-img">
-                    </figure>
-
-                </div>
-
-                <div class="col-md-6">
-
-                    <div class="testimonial-block">
-                        <div class="section-header">
-                            <div class="title">
-                                <span>What clients says</span>
-                            </div>
-                            <h2 class="section-title">Testimonials</h2>
-                        </div>
-                        <div class="testimonials-inner">
-                            <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Placerat venenatis tempor,
-                                turpis dolor. Aliquam faucibus velit, volutpat vulputate risus urna enim.</q>
-                            <div class="testimonial-author">
-                                <div class="author-detail">
-                                    <div class="name">LANA AL-MANASEER</div>
-                                    <div class="author-title">CEO</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--reviews-content-->
-
-                </div>
-            </div><!--grid-->
-
-        </div>
-    </section>
+ 
 
     <footer id="footer" class="footer_contaner">
         <div class="container">
@@ -671,8 +727,7 @@
                 <div class="col-md-5">
 
                     <div class="footer-menu menu-item-01">
-                        <img src="images/logo-removebg-preview.png" alt="logo" class="footer-logo">
-
+ 
                         <div class="social-links">
                             <p class="footer_tiltle">Follow Us On</p>
                             <ul>
@@ -727,7 +782,7 @@
                     <div class="footer-menu menu-item-03">
                         <h5 class="footer_tiltle">contact info</h5>
                         <ul class="menu-list">
- 
+
                             <li class="menu-item">
                                 <i class="icon icon-location2" id="nav_icone"></i>Aqaba-Haya Circle-RJ Building-1st
                                 Floor
