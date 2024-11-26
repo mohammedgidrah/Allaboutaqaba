@@ -192,49 +192,20 @@
                 <div id="filters" class="button-group d-flex flex-wrap gap-4 py-5" data-aos="fade-up">
                     <a href="#" class="btn btn-outline-light rounded-pill text-uppercase is-checked"
                         data-filter=".videos">videos</a>
-                    <a href="#" class="btn btn-outline-light rounded-pill text-uppercase"
-                        data-filter=".interior">Interior</a>
-                    <a href="#" class="btn btn-outline-light rounded-pill text-uppercase"
-                        data-filter=".landscape">Landscape</a>
-                    <a href="#" class="btn btn-outline-light rounded-pill text-uppercase"
-                        data-filter=".construction">Construction</a>
+
                 </div>
 
             </div>
 
             <div class="grid p-0 clearfix row row-cols-2 row-cols-lg-3 row-cols-xl-3" data-aos="fade-up">
-                <div class="col mb-4 portfolio-item construction interior">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 1."><img src="images/portfolio-thumb-1.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item construction construction">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 2."><img src="images/portfolio-thumb-2.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item construction">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 3."><img
-                            src="images/portfolio-thumb-11.jpg" class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item construction">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 4."><img src="images/portfolio-thumb-4.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item interior">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 5."><img src="images/portfolio-thumb-5.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
+                 
                 <div class="col mb-4 portfolio-item videos">
                     <div class="video-background"
-                        style="background-color: #000; padding: 20px; position: relative; overflow: hidden;">
+                        style="background-color: #000; width: 100%; height: 650px; padding: 20px; position: relative; overflow: hidden;">
                         <a href="videos/zain aldean.mp4" class="video-link"
                             title="Sample Caption goes here for Portfolio Item 6.">
-                            <video class="img-fluid" controls autoplay width="100%" height="50%">
-                                <source src="videos/zain aldean.mp4" type="video/mp4">
+                            <video class="img-fluid" poster="images/chefs.png" controls autoplay width="100%" height="50%">
+                                <source  src="videos/zain aldean.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </a>
@@ -242,10 +213,10 @@
                 </div>
                 <div class="col mb-4 portfolio-item videos">
                     <div class="video-background"
-                        style="background-color: #000; padding: 20px; position: relative; overflow: hidden;">
+                        style="background-color: #000; padding: 20px; width: 100%; height: 650px; position: relative; overflow: hidden;">
                         <a href="videos/sofex.mp4" class="video-link"
                             title="Sample Caption goes here for Portfolio Item 6.">
-                            <video class="img-fluid" controls autoplay width="100%" height="50%">
+                            <video class="img-fluid" poster="images/sofex.png" controls autoplay width="100%" height="50%">
                                 <source src="videos/sofex.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
@@ -254,10 +225,10 @@
                 </div>
                 <div class="col mb-4 portfolio-item videos">
                     <div class="video-background"
-                        style="background-color: #000; padding: 20px; position: relative; overflow: hidden;">
+                        style="background-color: #000; width: 100%; height: 650px; padding: 20px; position: relative; overflow: hidden;">
                         <a href="videos/regensy.mp4" class="video-link"
                             title="Sample Caption goes here for Portfolio Item 6.">
-                            <video class="img-fluid" controls autoplay width="100%" height="50%">
+                            <video class="img-fluid" poster="images/regensy.png" controls autoplay width="100%" height="50%">
                                 <source src="videos/regensy.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
@@ -267,83 +238,7 @@
 
 
 
-                <div class="col mb-4 portfolio-item videos">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 9."><img src="images/portfolio-thumb-9.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item videos">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item1 0."><img
-                            src="images/portfolio-thumb-10.jpg" class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item videos">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item1 1."><img
-                            src="images/portfolio-thumb-11.jpg" class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item construction">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item1 2."><img
-                            src="images/portfolio-thumb-2.jpg" class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item interior">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 1."><img src="images/portfolio-thumb-3.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item landscape">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 2."><img src="images/portfolio-thumb-8.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item landscape">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 3."><img src="images/portfolio-thumb-1.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item interior">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 4."><img src="images/portfolio-thumb-4.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item interior">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 5."><img src="images/portfolio-thumb-5.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item interior">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 6."><img src="images/portfolio-thumb-6.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item landscape">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 7."><img src="images/portfolio-thumb-7.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item landscape">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item 8."><img src="images/portfolio-thumb-8.jpg"
-                            class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item landscape">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item1 0."><img
-                            src="images/portfolio-thumb-10.jpg" class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item construction">
-                    <a href="images/portfolio-large-1.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item1 1."><img
-                            src="images/portfolio-thumb-11.jpg" class="img-fluid" alt="portfolio"></a>
-                </div>
-                <div class="col mb-4 portfolio-item landscape">
-                    <a href="images/portfolio-large-2.jpg" class="image-link"
-                        title="Sample Caption goes here for Portfolio Item1 2."><img
-                            src="images/portfolio-thumb-1.jpg" class="img-fluid" alt="portfolio"></a>
-                </div>
-            </div>
-
+                
         </div>
     </section>
 
