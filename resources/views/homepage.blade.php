@@ -18,6 +18,8 @@
         integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="icon" type="image/jpg" href="images/logo.jpg" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,6 +29,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 </head>
+ 
+
 
 <body>
 
@@ -357,169 +361,229 @@
                 </div>
 
             </div>
-
-            <div class="row">
-                <div class="col-md-12">
-
-                    <div class="post-grid">
-                        <div class="row">
-
-                            <div class="col-md-4">
-
-                                <article class="post-item">
-
-                                    <figure>
-                                        <a href="https://www.facebook.com/RYCJordan/" class="image-hvr-effect">
-                                            <img src="images/نادي اليخوت.png" alt="post" class="post-image">
-                                        </a>
-                                    </figure>
-
-                                    <div class="post-content">
-                                        <h3 class="post-title"><a href="https://www.facebook.com/RYCJordan/">The royal
-                                                yacht club of jordan </a></h3>
-
-                                    </div>
-                                </article>
-
-                            </div>
-
-                            <div class="col-md-4">
-
-                                <article class="post-item">
-                                    <figure>
-                                        <a href="https://www.mms.edu.jo/en/Home/Modern-Montessori-Kindergarten"
-                                            class="image-hvr-effect">
-                                            <img src="images/MMS.png" alt="post" class="post-image">
-                                        </a>
-                                    </figure>
-                                    <div class="post-content">
-                                        <h3 class="post-title"><a
-                                                href="https://www.mms.edu.jo/en/Home/Modern-Montessori-Kindergarten">Modern
-                                                montessori kindergarten
-                                            </a></h3>
-
-                                    </div>
-                                </article>
-                            </div>
-
-
-                            <div class="col-md-4">
-                                <article class="post-item">
-                                    <figure>
-                                        <a href="https://www.facebook.com/ZainAldeenShawarma/?locale=ar_AR"
-                                            class="image-hvr-effect">
-                                            <img src="images/zain aldeain.png" alt="post" class="post-image">
-                                        </a>
-                                    </figure>
-                                    <div class="post-content">
-                                        <h3 class="post-title"><a
-                                                href="https://www.facebook.com/ZainAldeenShawarma/?locale=ar_AR">Zainaldeen
-                                                shawarma
-                                            </a></h3>
-
-                                    </div>
-                                </article>
-                            </div>
-                            <div class="col-md-4">
-                                <article class="post-item">
-                                    <figure>
-                                        <a href="https://www.kempinski.com/en/hotel-aqaba" class="image-hvr-effect">
-                                            <img src="images/Kempinski logo 1[1].png" alt="post"
-                                                class="post-image kempinski">
-                                        </a>
-                                    </figure>
-                                    <div class="post-content">
-                                        <h3 class="post-title"><a
-                                                href="https://www.kempinski.com/en/hotel-aqaba">Kempinski hotel aqaba
-                                            </a></h3>
-
-                                    </div>
-                                </article>
-                            </div>
-                            <div class="col-md-4">
-                                <article class="post-item">
-                                    <figure>
-                                        <a href="https://www.hyatt.com/en-US/hotel/jordan/hyatt-regency-aqaba-ayla-resort/aqjra"
-                                            class="image-hvr-effect">
-                                            <img src="images/Hyatt purple logo[1].jpg" alt="post"
-                                                class="post-image">
-                                        </a>
-                                    </figure>
-                                    <div class="post-content">
-                                        <h3 class="post-title"><a
-                                                href="https://www.hyatt.com/en-US/hotel/jordan/hyatt-regency-aqaba-ayla-resort/aqjra">Hyatt
-                                                regency aqaba ayla resort</a></h3>
-
-                                    </div>
-                                </article>
-                            </div>
-                            <div class="col-md-4">
-                                <article class="post-item">
-                                    <figure>
-                                        <a href="https://www.instagram.com/calamantina_beauty/?hl=ar"
-                                            class="image-hvr-effect">
-                                            <img src="images/clementine.jpg" alt="post" class="post-image">
-                                        </a>
-                                    </figure>
-                                    <div class="post-content">
-                                        <h3 class="post-title"><a
-                                                href="https://www.instagram.com/calamantina_beauty/?hl=ar">Calamantina
-                                            </a></h3>
-
-                                    </div>
-                                </article>
-                            </div>
-                            <div class="col-md-4">
-                                <article class="post-item">
-                                    <figure>
-                                        <a href="https://cloud7hotels.com/ayla-aqaba/" class="image-hvr-effect">
-                                            <img src="images/cloud7 logo[1].png" alt="post" class="cloud7">
-                                        </a>
-                                    </figure>
-                                    <div class="post-content">
-                                        <h3 class="post-title"><a href="https://cloud7hotels.com/ayla-aqaba/">cloud
-                                                7</a></h3>
-
-                                    </div>
-                                </article>
-                            </div>
-                            <div class="col-md-4">
-                                <article class="post-item">
-                                    <figure>
-                                        <a href="https://www.facebook.com/Haddad.clinc/" class="image-hvr-effect">
-                                            <img src="images/haddad clinecke.jpg" alt="post" class="post-image">
-                                        </a>
-                                    </figure>
-                                    <div class="post-content">
-                                        <h3 class="post-title"><a
-                                                href="https://www.facebook.com/Haddad.clinc/">Haddad clinic</a></h3>
-
-                                    </div>
-                                </article>
-                            </div>
-                            <div class="col-md-4">
-                                <article class="post-item">
-                                    <figure>
-                                        <a href="https://www.jdfshops.com/ar" class="image-hvr-effect">
-                                            <img src="images/alhorah.png" alt="post" class="post-image">
-                                        </a>
-                                    </figure>
-                                    <div class="post-content">
-                                        <h3 class="post-title"><a href="https://www.jdfshops.com/ar">Alhurra
-                                            </a></h3>
-
-                                    </div>
-                                </article>
-                            </div>
-
+ 
+        
+            <div id="contentCarousel" class="carousel slide" data-bs-ride="carousel"  >
+                <!-- Indicators -->
+                <div class="carousel-indicators" style="margin: -38px;">
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="8" aria-label="Slide 9"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="9" aria-label="Slide 10"></button>
+                </div>
+                
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <!-- Slide 1 -->
+                    <div class="carousel-item active">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://www.facebook.com/RYCJordan/" class="image-hvr-effect">
+                                        <img src="images/نادي اليخوت.jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://www.facebook.com/RYCJordan/">The Royal Yacht Club of Jordan</a>
+                                    </h3>
+                                </div>
+                            </article>
                         </div>
                     </div>
+            
+                    <!-- Slide 2 -->
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://www.kempinski.com/en/hotel-aqaba" class="image-hvr-effect">
+                                        <img src="images/Kempinski logo 1[1].jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://www.kempinski.com/en/hotel-aqaba">Kempinski Hotel Aqaba</a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+            
+                    <!-- Slide 3 -->
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://www.hyatt.com/en-US/hotel/jordan/hyatt-regency-aqaba-ayla-resort/aqjra"
+                                       class="image-hvr-effect">
+                                        <img src="images/Hyatt purple logo[1].jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://www.hyatt.com/en-US/hotel/jordan/hyatt-regency-aqaba-ayla-resort/aqjra">
+                                            Hyatt Regency Aqaba Ayla Resort
+                                        </a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://cloud7hotels.com/"
+                                       class="image-hvr-effect">
+                                        <img src="images/cloud 7.jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://cloud7hotels.com/">
+                                           cloud 7
+                                        </a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://www.mms.edu.jo/en/Home/Modern-Montessori-Kindergarten"
+                                       class="image-hvr-effect">
+                                        <img src="images/mms.jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://www.mms.edu.jo/en/Home/Modern-Montessori-Kindergarten">
+                                            Modern montessori kindergarten
 
+                                        </a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://www.facebook.com/ZainAldeenShawarma/?locale=ar_AR"
+                                       class="image-hvr-effect">
+                                        <img src="images/zain aldean.jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://www.facebook.com/ZainAldeenShawarma/?locale=ar_AR">
+                                            Zainaldeen shawarma
+                                        </a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://www.instagram.com/calamantina_beauty/?hl=ar"
+                                       class="image-hvr-effect">
+                                        <img src="images/calamntena.jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://www.instagram.com/calamantina_beauty/?hl=ar">
+                                            Calamantina 
+                                        </a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://www.fountainjo.com/"
+                                       class="image-hvr-effect">
+                                        <img src="images/alnaforah.jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://www.fountainjo.com/">
+                                            fountain mall
+                                        </a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://jdfshops.com/ar"
+                                       class="image-hvr-effect">
+                                        <img src="images/alhorrah.jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://jdfshops.com/ar">
+                                            Alhurra
+                                        </a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center">
+                            <article class="post-item text-center">
+                                <figure>
+                                    <a href="https://www.facebook.com/Haddad.clinc/"
+                                       class="image-hvr-effect">
+                                        <img src="images/haddad.jpg" alt="post" class="post-image img-fluid">
+                                    </a>
+                                </figure>
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a href="https://www.facebook.com/Haddad.clinc/">
+                                            Haddad clinic
+                                        </a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
                 </div>
-
-
-
+            
+                <!-- Controls -->
+                <button class="carousel-control-prev" type="button" data-bs-target="#contentCarousel"   data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#contentCarousel" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
             </div>
+            
+            
 
             <!-- <div class="row">
     <div class="col">
@@ -713,10 +777,15 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous">
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+
     <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 
+     
+    
 </body>
 
 </html>
