@@ -1,34 +1,47 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-
-<head>
-    <title>Archi - Free Architecture Portfolio HTML Template</title>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="author" content="TemplatesJungle">
-    <meta name="keywords" content="Free HTML Template">
-    <meta name="description" content="Free HTML Template">
-
-    <link rel="stylesheet" type="text/css" href="icomoon/icomoon.css">
-    <link rel="stylesheet" type="text/css" href="css/vendor.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="icon" type="image/jpg" href="images/logo.jpg" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
-
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
-</head>
+    <head>
+        <title>Aqaba Marketing Solutions - Professional Marketing & Digital Services</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="author" content="Aqaba Marketing Solutions">
+        <meta name="keywords" content="Marketing, Digital Services, Aqaba Marketing Solutions, Social Media Management, Website Design, Content Marketing, Influencer Marketing, Event Planning">
+        <meta name="description" content="Aqaba Marketing Solutions provides professional digital marketing, social media management, content creation, influencer marketing, event planning, and website design services to help you achieve your business goals.">
+        <meta name="robots" content="index, follow">
+        
+        <!-- Open Graph Meta Tags -->
+        <meta property="og:title" content="Aqaba Marketing Solutions - Professional Marketing & Digital Services">
+        <meta property="og:description" content="Explore innovative digital marketing solutions to grow your business with Aqaba Marketing Solutions. Our expertise includes social media, web design, and content marketing.">
+        <meta property="og:image" content="images/logo.jpg">
+        <meta property="og:url" content="https://yourwebsite.com">
+        <meta property="og:type" content="website">
+    
+        <!-- Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Aqaba Marketing Solutions - Professional Marketing & Digital Services">
+        <meta name="twitter:description" content="Achieve your marketing goals with Aqaba Marketing Solutions. We specialize in social media, web design, and influencer marketing.">
+        <meta name="twitter:image" content="images/logo.jpg">
+    
+        <!-- Favicon -->
+        <link rel="icon" type="image/jpg" href="images/logo.jpg" />
+    
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    
+        <!-- Stylesheets -->
+        <link rel="stylesheet" type="text/css" href="icomoon/icomoon.css">
+        <link rel="stylesheet" type="text/css" href="css/vendor.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    </head>
+    
  
 
 
@@ -70,13 +83,7 @@
         </div>
     </div>
 
-    {{-- <ul>
-        <li><a href="#about">asfvfdcw</a></li>
-    </ul> --}}
-
-    {{-- <div class="main-logo" id="home">
-        <a href="#" ><img class="logo" src="images/logo-removebg-preview.png" alt=""></a>
-    </div> --}}
+ 
 
     <div class="side-nav-bar">
         <input id="menu-toggle" type="checkbox" />
@@ -176,75 +183,66 @@
         </div>
     </section>
 
+ 
     <section id="our-work" class="scrollspy-section bg-dark padding-large">
         <div class="container">
-
             <div class="row">
                 <div class="col-md-12">
-
-                    <div class="section-header">
+                    <div class="section-header ">
                         <div class="title">
                             <span>Some of Our Works</span>
                         </div>
-                        <h2 class="section-title light">Our works</h2>
+                        <h2 class="section-title text-light">Our works</h2>
                     </div>
                 </div>
             </div>
-
+    
             <div class="row">
-
-                <div id="filters" class="button-group d-flex flex-wrap gap-4 py-5" data-aos="fade-up">
-                    <a href="#" class="btn btn-outline-light rounded-pill text-uppercase is-checked"
-                        data-filter=".videos">videos</a>
-
+                <div id="filters" class="button-group d-flex flex-wrap   gap-4 py-5" data-aos="fade-up">
+                    <a href="#" class="btn btn-outline-light rounded-pill text-uppercase is-checked" data-filter=".videos">Videos</a>
                 </div>
-
             </div>
-
-            <div class="grid p-0 clearfix row row-cols-2 row-cols-lg-3 row-cols-xl-3" data-aos="fade-up">
-                 
-                <div class="col mb-4 portfolio-item videos">
-                    <div class="video-background"
-                        style="background-color: #000; width: 100%; height: 650px; padding: 20px; position: relative; overflow: hidden;">
-                        <a href="videos/zain aldean.mp4" class="video-link"
-                            title="Sample Caption goes here for Portfolio Item 6.">
-                            <video class="img-fluid" poster="images/chefs.png" controls autoplay width="100%" height="50%">
-                                <source  src="videos/zain aldean.mp4" type="video/mp4">
+    
+            <div class="grid p-0 clearfix row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4" data-aos="fade-up">
+                <!-- Video 1 -->
+                <div class="col portfolio-item videos">
+                    <div class="video-background">
+                        <a href="videos/zain aldean.mp4" class="video-link" title="Sample Caption for Video 1">
+                            <video class="img-fluid rounded shadow" poster="images/chefs.png" controls>
+                                <source src="videos/zain aldean.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </a>
                     </div>
                 </div>
-                <div class="col mb-4 portfolio-item videos">
-                    <div class="video-background"
-                        style="background-color: #000; padding: 20px; width: 100%; height: 650px; position: relative; overflow: hidden;">
-                        <a href="videos/sofex.mp4" class="video-link"
-                            title="Sample Caption goes here for Portfolio Item 6.">
-                            <video class="img-fluid" poster="images/sofex.png" controls autoplay width="100%" height="50%">
+    
+                <!-- Video 2 -->
+                <div class="col portfolio-item videos">
+                    <div class="video-background">
+                        <a href="videos/sofex.mp4" class="video-link" title="Sample Caption for Video 2">
+                            <video class="img-fluid rounded shadow" poster="images/sofex.png" controls>
                                 <source src="videos/sofex.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </a>
                     </div>
                 </div>
-                <div class="col mb-4 portfolio-item videos">
-                    <div class="video-background"
-                        style="background-color: #000; width: 100%; height: 650px; padding: 20px; position: relative; overflow: hidden;">
-                        <a href="videos/regensy.mp4" class="video-link"
-                            title="Sample Caption goes here for Portfolio Item 6.">
-                            <video class="img-fluid" poster="images/regensy.png" controls autoplay width="100%" height="50%">
+    
+                <!-- Video 3 -->
+                <div class="col portfolio-item videos">
+                    <div class="video-background">
+                        <a href="videos/regensy.mp4" class="video-link" title="Sample Caption for Video 3">
+                            <video class="img-fluid rounded shadow" poster="images/regensy.png" controls>
                                 <source src="videos/regensy.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </a>
                     </div>
                 </div>
-
-
-
-                
+            </div>
         </div>
     </section>
+    
 
     <section id="services" class="scrollspy-section padding-large">
         <div class="container">
@@ -322,40 +320,18 @@
         </div>
     </section>
 
-    {{-- <section id="subscribe" class="scrollspy-section padding-small">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <figure class="subscribe-image">
-                        <img src="images/subscribe-image.png" alt="subscribe">
-                    </figure>
-                </div>
-                <div class="col-md-6">
-                    <div class="subscribe-content">
-                        <h2 class="section-title">subscribe us</h2>
-                        <p>Join our newsletter to stay updated with super discounts and amazing offers. 300+ have
-                            already subscribed us.</p>
-                        <form id="form">
-                            <input type="text" name="email" placeholder="enter your email address">
-                            <button class="btn btn-accent btn-rounded btn-full btn-xlarge">Subscribe</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> --}}
+ 
 
-    <section id="latest-blog" class="scrollspy-section bg-grey padding-large">
+    <section id="latest-blog" class="scrollspy-section bg-grey py-5">
         <div class="container">
 
             <div class="row">
 
-                <div class="col">
+                <div class="col text-center">
 
                     <div class="section-header">
                         <div class="title">
-                            {{-- <span> our clints</span> --}}
-                        </div>
+                         </div>
                         <h2 class="section-title"> our clints</h2>
                     </div>
                 </div>
@@ -585,15 +561,7 @@
             
             
 
-            <!-- <div class="row">
-    <div class="col">
-
-     <div class="btn-wrap align-center">
-      <a href="#" class="btn btn-xlarge btn-accent btn-rounded">View all blog</a>
-     </div>
-
-    </div>
-   </div> -->
+ 
 
         </div>
     </section>
