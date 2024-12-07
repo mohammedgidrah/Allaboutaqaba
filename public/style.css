@@ -1334,7 +1334,13 @@ blockquote cite {
 .dropcap.colored {
     color: #2bcaae;
 }
-
+.video-cover {
+    object-fit: cover;
+    width: 400px; /* or specific width like 300px */
+    height: 500px; /* or specific height like 200px */
+    justify-self: center;   
+    display: flex;
+}
 /*----------------------------------------------*/
 /* 3.3 Text Highlights */
 /*----------------------------------------------*/

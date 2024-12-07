@@ -239,6 +239,17 @@
                         </a>
                     </div>
                 </div>
+                <div class="col portfolio-item videos">
+                    <div class="video-background">
+                        <a href="videos/kempenesicy.mp4" class="video-link" title="Sample Caption for Video 3">
+                            <video class="img-fluid rounded shadow video-cover" poster="images/kempenesicy.png" controls>
+                                <source src="videos/kempenesicy.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        </a>
+                    </div>
+                </div>
+                    
             </div>
         </div>
     </section>
