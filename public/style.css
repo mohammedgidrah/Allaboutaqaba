@@ -1214,13 +1214,13 @@ fieldset[disabled] a.btn {
 }
 
 .image-hvr-effect img.post-image {
-    width: 300px    ;  
-    height: 300px;  
-    object-fit: cover;  
-    transform: scale(1.1); 
-     transition: transform 0.35s cubic-bezier(0.94, 0.94, 0.94, 0.94);
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    transform: scale(1.1);
+    transition: transform 0.35s cubic-bezier(0.94, 0.94, 0.94, 0.94);
     z-index: 0; /* Ensure it is below any overlapping elements */
-  }
+}
 
 .image-hvr-effect:hover img.post-image {
     transform: scale(1);
@@ -1228,7 +1228,7 @@ fieldset[disabled] a.btn {
 .image-hvr-effect:hover img.cloud7 {
     transform: scale(1);
 }
-.kempinski{
+.kempinski {
     background: white;
 }
 .swiper-container {
@@ -1256,14 +1256,13 @@ fieldset[disabled] a.btn {
     margin-top: 10px;
     font-size: 1.2em;
 }
-.cloud7{
-    width: 300px;  
-    height: 300px;  
+.cloud7 {
+    width: 300px;
+    height: 300px;
     background-color: white;
-    transform: scale(1.1); 
-     transition: transform 0.35s cubic-bezier(0.94, 0.94, 0.94, 0.94);
+    transform: scale(1.1);
+    transition: transform 0.35s cubic-bezier(0.94, 0.94, 0.94, 0.94);
     margin-bottom: 18px;
-    
 }
 .contact-img {
     width: 100%; /* Ensure the image spans the full width of its         container */
@@ -1338,7 +1337,7 @@ blockquote cite {
     object-fit: cover;
     width: 400px; /* or specific width like 300px */
     height: 500px; /* or specific height like 200px */
-    justify-self: center;   
+    justify-self: center;
     display: flex;
 }
 /*----------------------------------------------*/
@@ -1449,7 +1448,6 @@ header {
 .nav-active header {
     position: relative;
 }
- 
 
 header.nav-up {
     /*top: -(var(--header-height-min));*/
@@ -2128,7 +2126,6 @@ body.nav-active .nav__block .nav__block-item {
 @media only screen and (max-width: 1600px) {
     .main-slider .banner-content .btn-wrap {
         margin: 30px 0;
-        
     }
 
     .main-slider .banner-content {
@@ -2138,7 +2135,7 @@ body.nav-active .nav__block .nav__block-item {
 
 @media only screen and (max-width: 1399px) {
     .main-slider .banner-content h2.banner-title {
-        font-size:45px;
+        font-size: 45px;
     }
 }
 
@@ -2472,7 +2469,7 @@ pre {
 /** 4.4 Footer
 --------------------------------------------------------------*/
 footer#footer {
-    margin-top: 50px;
+    padding-top: 50px;
 }
 
 #footer img.footer-logo {
@@ -3086,7 +3083,7 @@ footer#footer {
 }
 
 .post-grid .post-content {
-    width:315px;
+    width: 315px;
     padding: 40px 30px;
     margin-bottom: 60px;
     box-shadow: -7px 12px 41px -10px rgb(0 0 0 / 12%);
@@ -3221,10 +3218,13 @@ footer#footer {
     border-radius: 8px;
     transition: transform 0.3s ease-in-out;
 }
-.carousel-control-next:focus, .carousel-control-next:hover, .carousel-control-prev:focus, .carousel-control-prev:hover {
+.carousel-control-next:focus,
+.carousel-control-next:hover,
+.carousel-control-prev:focus,
+.carousel-control-prev:hover {
     color: #fff;
     text-decoration: none;
-     border: none;
+    border: none;
     outline: none;
     box-shadow: none;
 }
@@ -3267,10 +3267,10 @@ footer#footer {
     }
 }
 @media (max-width: 474px) {
-    .carousel-control-next-icon{
+    .carousel-control-next-icon {
         margin-right: -60px;
     }
-    .carousel-control-prev-icon{
+    .carousel-control-prev-icon {
         margin-left: -60px;
     }
 }
@@ -3287,5 +3287,128 @@ footer#footer {
 @media (max-width: 576px) {
     #latest-blog {
         padding: 2rem 1rem;
+    }
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .banner-title {
+        font-size: 2rem;
+    }
+
+    .banner-content {
+        bottom: 15%;
+        left: 5%;
+    }
+
+    button.slick-arrow {
+        font-size: 1.2rem;
+        padding: 8px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .banner-title {
+        font-size: 1.5rem;
+    }
+
+    .banner-content {
+        bottom: 10%;
+        left: 5%;
+    }
+}
+
+.section-header .title {
+    font-size: 1.2rem;
+    color: #333;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.section-header h2 {
+    font-size: 2rem;
+    color: #000;
+}
+
+.description p {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    color: #5e5e5e;
+}
+
+@media (max-width: 768px) {
+    .section-header h2 {
+        font-size: 1.5rem;
+    }
+
+    .description p {
+        font-size: 0.9rem;
+    }
+
+    .jarallax-keep-img img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 576px) {
+    .section-header .title {
+        font-size: 1rem;
+    }
+
+    .description p {
+        font-size: 0.8rem;
+    }
+}
+.title {
+    display: flex;
+}
+#abouttitle {
+    display: flex;
+    align-items: flex-start;
+}
+.responsive-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.jarallax-keep-img {
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+    .responsive-image {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .left-content,
+    .right-content {
+        text-align: center;
+        margin: 0 auto; /* Center the content within the container */
+    }
+    .iconbox {
+        display: flex; /* Ensure it's a flex container */
+        flex-direction: column; /* Stack icons and details vertically */
+        align-items: center; /* Center content horizontally */
+        margin-bottom: 20px;
+    }
+    .iconbox .detail {
+        text-align: center;
     }
 }

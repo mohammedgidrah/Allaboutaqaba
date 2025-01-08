@@ -1,48 +1,56 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-    <head>
-        <title>Aqaba Marketing Solutions - Professional Marketing & Digital Services</title>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="author" content="Aqaba Marketing Solutions">
-        <meta name="keywords" content="Marketing, Digital Services, Aqaba Marketing Solutions, Social Media Management, Website Design, Content Marketing, Influencer Marketing, Event Planning">
-        <meta name="description" content="Aqaba Marketing Solutions provides professional digital marketing, social media management, content creation, influencer marketing, event planning, and website design services to help you achieve your business goals.">
-        <meta name="robots" content="index, follow">
-        
-        <!-- Open Graph Meta Tags -->
-        <meta property="og:title" content="Aqaba Marketing Solutions - Professional Marketing & Digital Services">
-        <meta property="og:description" content="Explore innovative digital marketing solutions to grow your business with Aqaba Marketing Solutions. Our expertise includes social media, web design, and content marketing.">
-        <meta property="og:image" content="images/logo.jpg">
-        <meta property="og:url" content="https://yourwebsite.com">
-        <meta property="og:type" content="website">
-    
-        <!-- Twitter Meta Tags -->
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="Aqaba Marketing Solutions - Professional Marketing & Digital Services">
-        <meta name="twitter:description" content="Achieve your marketing goals with Aqaba Marketing Solutions. We specialize in social media, web design, and influencer marketing.">
-        <meta name="twitter:image" content="images/logo.jpg">
-    
-        <!-- Favicon -->
-        <link rel="icon" type="image/jpg" href="images/logo.jpg" />
-    
-        <!-- Fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-    
-        <!-- Stylesheets -->
-        <link rel="stylesheet" type="text/css" href="icomoon/icomoon.css">
-        <link rel="stylesheet" type="text/css" href="css/vendor.css">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="style.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    </head>
-    
- 
+
+<head>
+    <title>Aqaba Marketing Solutions - Professional Marketing & Digital Services</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="author" content="Aqaba Marketing Solutions">
+    <meta name="keywords"
+        content="Marketing, Digital Services, Aqaba Marketing Solutions, Social Media Management, Website Design, Content Marketing, Influencer Marketing, Event Planning">
+    <meta name="description"
+        content="Aqaba Marketing Solutions provides professional digital marketing, social media management, content creation, influencer marketing, event planning, and website design services to help you achieve your business goals.">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Aqaba Marketing Solutions - Professional Marketing & Digital Services">
+    <meta property="og:description"
+        content="Explore innovative digital marketing solutions to grow your business with Aqaba Marketing Solutions. Our expertise includes social media, web design, and content marketing.">
+    <meta property="og:image" content="images/logo.jpg">
+    <meta property="og:url" content="https://yourwebsite.com">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Aqaba Marketing Solutions - Professional Marketing & Digital Services">
+    <meta name="twitter:description"
+        content="Achieve your marketing goals with Aqaba Marketing Solutions. We specialize in social media, web design, and influencer marketing.">
+    <meta name="twitter:image" content="images/logo.jpg">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/jpg" href="images/logo.jpg" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="icomoon/icomoon.css">
+    <link rel="stylesheet" type="text/css" href="css/vendor.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+
 
 
 <body>
@@ -75,7 +83,7 @@
 
                     <!-- Image Section -->
                     <div class="col-md-6">
-                        <img src="images/Lana office pic[1].JPG" alt="Contact Us" class="contact-img">
+                        <img src="images/about.jpg" alt="Contact Us" class="contact-img">
                     </div>
 
                 </div>
@@ -83,7 +91,7 @@
         </div>
     </div>
 
- 
+
 
     <div class="side-nav-bar">
         <input id="menu-toggle" type="checkbox" />
@@ -92,49 +100,43 @@
         </label>
     </div>
 
+
     <section id="intro" class="scrollspy-section">
         <div class="main-slider">
             <div class="slider-item jarallax" data-speed="0.2">
                 <img src="images/logo.png" alt="banner" class="jarallax-img">
                 <div class="banner-content">
                     <h2 class="banner-title txt-fx"></h2>
-
-                </div><!--banner-content-->
-            </div><!--slider-item-->
+                </div>
+            </div>
             <div class="slider-item jarallax" data-speed="0.2">
                 <img src="images/top-view-photography-accesories-with-copy-space.jpg" alt="banner"
                     class="jarallax-img">
                 <div class="banner-content">
                     <h2 class="banner-title txt-fx">photography</h2>
-
-                </div><!--banner-content-->
-            </div><!--slider-item-->
-
+                </div>
+            </div>
             <div class="slider-item jarallax" data-speed="0.2">
                 <img src="images/videography-specialist-editing-new-movie-clip-montage.jpg" alt="banner"
                     class="jarallax-img">
                 <div class="banner-content">
                     <h2 class="banner-title txt-fx">videography</h2>
-
-                </div><!--banner-content-->
-            </div><!--slider-item-->
+                </div>
+            </div>
             <div class="slider-item jarallax" data-speed="0.2">
                 <img src="images/advertising.png" alt="banner" class="jarallax-img">
                 <div class="banner-content">
                     <h2 class="banner-title txt-fx">advertising</h2>
-
-                </div><!--banner-content-->
-            </div><!--slider-item-->
-
+                </div>
+            </div>
             <div class="slider-item jarallax" data-speed="0.2">
                 <img src="images/marketing-advertising-commercial-strategy-concept.jpg" alt="banner"
                     class="jarallax-img">
                 <div class="banner-content">
                     <h2 class="banner-title txt-fx">marketing</h2>
-
-                </div><!--banner-content-->
-            </div><!--slider-item-->
-        </div><!--slider-->
+                </div>
+            </div>
+        </div>
 
         <div class="button-container">
             <button class="prev slick-arrow">
@@ -149,41 +151,36 @@
     <section id="about" class="scrollspy-section padding-xlarge">
         <div class="container">
             <div class="row">
-
                 <div class="col-md-12">
-
-                    <div class="section-header">
+                    <div class="section-header text-center">
                         <div class="title">
-                            <span>who are we</span>
+                            <span>Who Are We</span>
                         </div>
                         <h2 id="abouttitle">All About Aqaba Marketing Solution Company</h2>
                     </div>
                 </div>
-
             </div>
 
-            <div class="row">
-
-                <div class="col-md-6">
+            <div class="row align-items-center">
+                <!-- Image Column -->
+                <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
                     <figure class="jarallax-keep-img">
-                        <img src="images/about.jpg" alt="about us" class="jarallax-img single-image">
+                        <img src="images/Lana office pic[1].JPG" alt="About us" class="img-fluid responsive-image">
                     </figure>
                 </div>
-                <div class="col-md-6 description text-lead">
+
+                <!-- Text Column -->
+                <div class="col-lg-6 col-md-12 description text-lead">
                     <p><strong>We Help Our Partners Achieve Their Goals And Enhance Their Digital Presence.</strong></p>
-                    <p>We Provide You With Real Services Through A Deep Understanding Of Our Customers Needs.</p>
-                    <p>Our Real Goal Is Our Lasting Relation With You</p>
-
-
-
+                    <p>We Provide You With Real Services Through A Deep Understanding Of Our Customers' Needs.</p>
+                    <p>Our Real Goal Is Our Lasting Relation With You.</p>
                 </div>
-
             </div>
-
         </div>
     </section>
 
- 
+
+
     <section id="our-work" class="scrollspy-section bg-dark padding-large">
         <div class="container">
             <div class="row">
@@ -196,13 +193,14 @@
                     </div>
                 </div>
             </div>
-    
+
             <div class="row">
                 <div id="filters" class="button-group d-flex flex-wrap   gap-4 py-5" data-aos="fade-up">
-                    <a href="#" class="btn btn-outline-light rounded-pill text-uppercase is-checked" data-filter=".videos">Videos</a>
+                    <a href="#" class="btn btn-outline-light rounded-pill text-uppercase is-checked"
+                        data-filter=".videos">Videos</a>
                 </div>
             </div>
-    
+
             <div class="grid p-0 clearfix row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4" data-aos="fade-up">
                 <!-- Video 1 -->
                 <div class="col portfolio-item videos">
@@ -215,7 +213,7 @@
                         </a>
                     </div>
                 </div>
-    
+
                 <!-- Video 2 -->
                 <div class="col portfolio-item videos">
                     <div class="video-background">
@@ -227,7 +225,7 @@
                         </a>
                     </div>
                 </div>
-    
+
                 <!-- Video 3 -->
                 <div class="col portfolio-item videos">
                     <div class="video-background">
@@ -242,18 +240,19 @@
                 <div class="col portfolio-item videos">
                     <div class="video-background">
                         <a href="videos/kempenesicy.mp4" class="video-link" title="Sample Caption for Video 3">
-                            <video class="img-fluid rounded shadow video-cover" poster="images/kempenesicy.png" controls>
+                            <video class="img-fluid rounded shadow video-cover" poster="images/kempenesicy.png"
+                                controls>
                                 <source src="videos/kempenesicy.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </a>
                     </div>
                 </div>
-                    
+
             </div>
         </div>
     </section>
-    
+
 
     <section id="services" class="scrollspy-section padding-large">
         <div class="container">
@@ -331,7 +330,7 @@
         </div>
     </section>
 
- 
+
 
     <section id="latest-blog" class="scrollspy-section bg-grey py-5">
         <div class="container">
@@ -342,29 +341,39 @@
 
                     <div class="section-header">
                         <div class="title">
-                         </div>
+                        </div>
                         <h2 class="section-title"> our clints</h2>
                     </div>
                 </div>
 
             </div>
- 
-        
-            <div id="contentCarousel" class="carousel slide" data-bs-ride="carousel"  >
+
+
+            <div id="contentCarousel" class="carousel slide" data-bs-ride="carousel">
                 <!-- Indicators -->
                 <div class="carousel-indicators" style="margin: -38px;">
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="8" aria-label="Slide 9"></button>
-                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="9" aria-label="Slide 10"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="0" class="active"
+                        aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="1"
+                        aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="2"
+                        aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="3"
+                        aria-label="Slide 4"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="4"
+                        aria-label="Slide 5"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="5"
+                        aria-label="Slide 6"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="6"
+                        aria-label="Slide 7"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="7"
+                        aria-label="Slide 8"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="8"
+                        aria-label="Slide 9"></button>
+                    <button type="button" data-bs-target="#contentCarousel" data-bs-slide-to="9"
+                        aria-label="Slide 10"></button>
                 </div>
-                
+
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <!-- Slide 1 -->
@@ -373,25 +382,28 @@
                             <article class="post-item text-center">
                                 <figure>
                                     <a href="https://www.facebook.com/RYCJordan/" class="image-hvr-effect">
-                                        <img src="images/نادي اليخوت.jpg" alt="post" class="post-image img-fluid">
+                                        <img src="images/نادي اليخوت.jpg" alt="post"
+                                            class="post-image img-fluid">
                                     </a>
                                 </figure>
                                 <div class="post-content">
                                     <h3 class="post-title">
-                                        <a href="https://www.facebook.com/RYCJordan/">The Royal Yacht Club of Jordan</a>
+                                        <a href="https://www.facebook.com/RYCJordan/">The Royal Yacht Club of
+                                            Jordan</a>
                                     </h3>
                                 </div>
                             </article>
                         </div>
                     </div>
-            
+
                     <!-- Slide 2 -->
                     <div class="carousel-item">
                         <div class="d-flex justify-content-center">
                             <article class="post-item text-center">
                                 <figure>
                                     <a href="https://www.kempinski.com/en/hotel-aqaba" class="image-hvr-effect">
-                                        <img src="images/Kempinski logo 1[1].jpg" alt="post" class="post-image img-fluid">
+                                        <img src="images/Kempinski logo 1[1].jpg" alt="post"
+                                            class="post-image img-fluid">
                                     </a>
                                 </figure>
                                 <div class="post-content">
@@ -402,20 +414,22 @@
                             </article>
                         </div>
                     </div>
-            
+
                     <!-- Slide 3 -->
                     <div class="carousel-item">
                         <div class="d-flex justify-content-center">
                             <article class="post-item text-center">
                                 <figure>
                                     <a href="https://www.hyatt.com/en-US/hotel/jordan/hyatt-regency-aqaba-ayla-resort/aqjra"
-                                       class="image-hvr-effect">
-                                        <img src="images/Hyatt purple logo[1].jpg" alt="post" class="post-image img-fluid">
+                                        class="image-hvr-effect">
+                                        <img src="images/Hyatt purple logo[1].jpg" alt="post"
+                                            class="post-image img-fluid">
                                     </a>
                                 </figure>
                                 <div class="post-content">
                                     <h3 class="post-title">
-                                        <a href="https://www.hyatt.com/en-US/hotel/jordan/hyatt-regency-aqaba-ayla-resort/aqjra">
+                                        <a
+                                            href="https://www.hyatt.com/en-US/hotel/jordan/hyatt-regency-aqaba-ayla-resort/aqjra">
                                             Hyatt Regency Aqaba Ayla Resort
                                         </a>
                                     </h3>
@@ -427,15 +441,14 @@
                         <div class="d-flex justify-content-center">
                             <article class="post-item text-center">
                                 <figure>
-                                    <a href="https://cloud7hotels.com/"
-                                       class="image-hvr-effect">
+                                    <a href="https://cloud7hotels.com/" class="image-hvr-effect">
                                         <img src="images/cloud 7.jpg" alt="post" class="post-image img-fluid">
                                     </a>
                                 </figure>
                                 <div class="post-content">
                                     <h3 class="post-title">
                                         <a href="https://cloud7hotels.com/">
-                                           cloud 7
+                                            cloud 7
                                         </a>
                                     </h3>
                                 </div>
@@ -447,7 +460,7 @@
                             <article class="post-item text-center">
                                 <figure>
                                     <a href="https://www.mms.edu.jo/en/Home/Modern-Montessori-Kindergarten"
-                                       class="image-hvr-effect">
+                                        class="image-hvr-effect">
                                         <img src="images/mms.jpg" alt="post" class="post-image img-fluid">
                                     </a>
                                 </figure>
@@ -467,8 +480,9 @@
                             <article class="post-item text-center">
                                 <figure>
                                     <a href="https://www.facebook.com/ZainAldeenShawarma/?locale=ar_AR"
-                                       class="image-hvr-effect">
-                                        <img src="images/zain aldean.jpg" alt="post" class="post-image img-fluid">
+                                        class="image-hvr-effect">
+                                        <img src="images/zain aldean.jpg" alt="post"
+                                            class="post-image img-fluid">
                                     </a>
                                 </figure>
                                 <div class="post-content">
@@ -486,14 +500,14 @@
                             <article class="post-item text-center">
                                 <figure>
                                     <a href="https://www.instagram.com/calamantina_beauty/?hl=ar"
-                                       class="image-hvr-effect">
+                                        class="image-hvr-effect">
                                         <img src="images/calamntena.jpg" alt="post" class="post-image img-fluid">
                                     </a>
                                 </figure>
                                 <div class="post-content">
                                     <h3 class="post-title">
                                         <a href="https://www.instagram.com/calamantina_beauty/?hl=ar">
-                                            Calamantina 
+                                            Calamantina
                                         </a>
                                     </h3>
                                 </div>
@@ -504,8 +518,7 @@
                         <div class="d-flex justify-content-center">
                             <article class="post-item text-center">
                                 <figure>
-                                    <a href="https://www.fountainjo.com/"
-                                       class="image-hvr-effect">
+                                    <a href="https://www.fountainjo.com/" class="image-hvr-effect">
                                         <img src="images/alnaforah.jpg" alt="post" class="post-image img-fluid">
                                     </a>
                                 </figure>
@@ -523,8 +536,7 @@
                         <div class="d-flex justify-content-center">
                             <article class="post-item text-center">
                                 <figure>
-                                    <a href="https://jdfshops.com/ar"
-                                       class="image-hvr-effect">
+                                    <a href="https://jdfshops.com/ar" class="image-hvr-effect">
                                         <img src="images/alhorrah.jpg" alt="post" class="post-image img-fluid">
                                     </a>
                                 </figure>
@@ -542,8 +554,7 @@
                         <div class="d-flex justify-content-center">
                             <article class="post-item text-center">
                                 <figure>
-                                    <a href="https://www.facebook.com/Haddad.clinc/"
-                                       class="image-hvr-effect">
+                                    <a href="https://www.facebook.com/Haddad.clinc/" class="image-hvr-effect">
                                         <img src="images/haddad.jpg" alt="post" class="post-image img-fluid">
                                     </a>
                                 </figure>
@@ -558,53 +569,53 @@
                         </div>
                     </div>
                 </div>
-            
+
                 <!-- Controls -->
-                <button class="carousel-control-prev" type="button" data-bs-target="#contentCarousel"   data-bs-slide="prev">
+                <button class="carousel-control-prev" type="button" data-bs-target="#contentCarousel"
+                    data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#contentCarousel" data-bs-slide="next">
+                <button class="carousel-control-next" type="button" data-bs-target="#contentCarousel"
+                    data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
             </div>
-            
-            
 
- 
+
+
+
 
         </div>
     </section>
 
     <section id="contact" class="scrollspy-section bg-dark padding-large">
         <div class="container">
-
-            <div class="row">
-                <div class="col-md-6">
-
+            <div class="row align-items-center">
+                <!-- Left Content -->
+                <div class="col-lg-6 col-md-12 mb-4">
                     <div class="left-content">
-
                         <div class="section-header">
                             <div class="title">
                                 <span>Get in touch</span>
                             </div>
                             <h2 class="section-title light">Contact us</h2>
                         </div>
-
-                        <p>If you have any question about our process or company? Let us know how we can help you.</p>
-
+                        <p>If you have any questions about our process or company? Let us know how we can help you.</p>
                         <form id="form-contact" class="form-light" action="{{ route('contact.submit') }}"
                             method="POST">
                             @csrf
                             <p>
-                                <input type="text" name="name" placeholder="Your Full Name*" required>
+                                <input type="text" class="form-control mb-3" name="name"
+                                    placeholder="Your Full Name*" required>
                             </p>
                             <p>
-                                <input type="email" name="email" placeholder="Your Email Address" required>
+                                <input type="email" class="form-control mb-3" name="email"
+                                    placeholder="Your Email Address" required>
                             </p>
                             <p>
-                                <textarea name="message" placeholder="Your Message" required></textarea>
+                                <textarea class="form-control mb-3" name="message" placeholder="Your Message" rows="4" required></textarea>
                             </p>
                             <p>
                                 <label for="agree">
@@ -615,48 +626,38 @@
                             <button class="btn btn-accent btn-rounded btn-xlarge btn-full"
                                 type="submit">Submit</button>
                         </form>
-
-
-
                     </div>
-
-                </div><!--left-content-->
-
-                <div class="col-md-6">
+                </div>
+                <!-- Right Content -->
+                <div class="col-lg-6 col-md-12">
                     <div class="right-content">
-
-
-                        <div class="iconbox">
+                        <div class="iconbox mb-4">
                             <i class="icon icon-location2" id="nav_icone"></i>
                             <div class="detail">
-                                {{-- <strong>Address 2:</strong> --}}
                                 <p>Aqaba-Haya Circle-RJ Building-1st Floor</p>
                             </div>
                         </div>
-                        <div class="iconbox">
+                        <div class="iconbox mb-4">
                             <i class="icon icon-phone" id="nav_icone"></i>
                             <div class="detail">
                                 <strong>Phone:</strong>
                                 <p>+962 79 084 6327</p>
                             </div>
                         </div>
-                        <div class="iconbox">
+                        <div class="iconbox mb-4">
                             <i class="icon icon-mail3" id="nav_icone"></i>
                             <div class="detail">
                                 <strong>Email:</strong>
                                 <p><a href="mailto:Lanaalmanaseerr@gmail.com">Lanaalmanaseerr@gmail.com</a></p>
                             </div>
                         </div>
-
                     </div>
-                </div><!--right-content-->
-
+                </div>
             </div>
-
         </div>
     </section>
 
- 
+
 
     <footer id="footer" class="footer_contaner">
         <div class="container">
@@ -665,7 +666,7 @@
                 <div class="col-md-5">
 
                     <div class="footer-menu menu-item-01">
- 
+
                         <div class="social-links">
                             <p class="footer_tiltle">Follow Us On</p>
                             <ul>
@@ -702,11 +703,7 @@
                                 <a class="social_link_footer" href="#our-work">Our Work</a>
                             </li>
 
-                            {{-- ??????????????????????????????/ --}}
-                            {{-- <li class="menu-item">
-                                <a href="#">blogs</a>
-                            </li> --}}
-                            {{-- ?????????????????? --}}
+
                             <li class="menu-item">
                                 <a class="social_link_footer" href="#contact">contact us</a>
                             </li>
@@ -763,8 +760,8 @@
     <script src="js/script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 
-     
-    
+
+
 </body>
 
 </html>
