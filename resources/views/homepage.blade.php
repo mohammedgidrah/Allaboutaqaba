@@ -63,7 +63,7 @@
                 <div class="row p-4 p-md-0 flex-column-reverse flex-md-row g-md-5 nav__block">
 
                     <!-- Contact Info Section -->
-                    <div class="col-md-6 text-white">
+                    <div class="col-md-6 text-white" >
                         <h3 class="text-white fw-bold nav__block-item">Contact Info</h3>
                         <ul class="list-unstyled text-light nav__block-item">
                             <li class="menu-item">
@@ -102,7 +102,7 @@
 
 
     <section id="intro" class="scrollspy-section">
-        <div class="main-slider">
+        <div class="main-slider" id="home">
             <div class="slider-item jarallax" data-speed="0.2">
                 <img src="images/logo.png" alt="banner" class="jarallax-img">
                 <div class="banner-content">
@@ -206,7 +206,7 @@
                 <div class="col portfolio-item videos">
                     <div class="video-background">
                         <a href="videos/zain aldean.mp4" class="video-link" title="Sample Caption for Video 1">
-                            <video class="img-fluid rounded shadow" poster="images/chefs.png" controls>
+                            <video class="img-fluid rounded shadow video-cover" poster="images/chefs.png" controls>
                                 <source src="videos/zain aldean.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
@@ -218,7 +218,7 @@
                 <div class="col portfolio-item videos">
                     <div class="video-background">
                         <a href="videos/sofex.mp4" class="video-link" title="Sample Caption for Video 2">
-                            <video class="img-fluid rounded shadow" poster="images/sofex.png" controls>
+                            <video class="img-fluid rounded shadow video-cover" poster="images/sofex.png" controls>
                                 <source src="videos/sofex.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
@@ -230,7 +230,7 @@
                 <div class="col portfolio-item videos">
                     <div class="video-background">
                         <a href="videos/regensy.mp4" class="video-link" title="Sample Caption for Video 3">
-                            <video class="img-fluid rounded shadow" poster="images/regensy.png" controls>
+                            <video class="img-fluid rounded shadow video-cover" poster="images/regensy.png" controls>
                                 <source src="videos/regensy.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
@@ -600,7 +600,7 @@
                             <div class="title">
                                 <span>Get in touch</span>
                             </div>
-                            <h2 class="section-title light">Contact us</h2>
+                            <h2 id="contacttitle" class="section-title light">Contact us</h2>
                         </div>
                         <p>If you have any questions about our process or company? Let us know how we can help you.</p>
                         <form id="form-contact" class="form-light" action="{{ route('contact.submit') }}"
